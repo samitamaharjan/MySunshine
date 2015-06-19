@@ -11,10 +11,6 @@ import android.widget.ListView;
 import java.util.ArrayList;
 import java.util.List;
 
-
-/**
- * A placeholder fragment containing a simple view.
- */
 public class MainActivityFragment extends Fragment {
 
     ArrayAdapter<String> arrayAdapter = null;
